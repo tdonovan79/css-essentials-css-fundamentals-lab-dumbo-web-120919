@@ -30,12 +30,13 @@ figcaption{
 #details{
   display:block;
   float:left;
-}
-
-#details{
   background-color: red;
   text-align: center;
   width:25%;
+}
+
+#details{
+  
 }
 
 
